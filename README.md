@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/twitter banner 2.0.png
+cover: .gitbook/assets/banner.png
 coverY: 0
 ---
 
